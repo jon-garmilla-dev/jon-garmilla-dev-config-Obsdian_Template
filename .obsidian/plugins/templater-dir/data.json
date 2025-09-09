@@ -1,0 +1,8 @@
+{
+  "templateFolder": "99_Templates",
+  "enableFolderTemplates": true,
+  "dateVariables": true,
+  "templateMenuStyle": "individual",
+  "templateConfigs": [],
+  "templateDisplayMode": "result"
+}
